@@ -154,7 +154,7 @@
 		}
 	})
 })();
-*//*
+
 window.addEventListener("load",()=>{
 	//preloader
 	document.querySelector(".preloader").classList.add("fade-out");
